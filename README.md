@@ -10,13 +10,13 @@ To get started with these examples, you'll need to have Ansible installed. Below
 #### Ubuntu / Debian
 ```bash
 sudo apt update
-sudo apt install ansible
+sudo apt install -y ansible
 ```
 #### macOS
 ```bash
 brew install ansible
 ```
-#### using pip
+#### Using pip
 ```bash
 pip install ansible
 ```
