@@ -3,7 +3,7 @@ ansibleSimplified is a personal collection of simple Ansible examples and playbo
 
 Each example reflects something I’ve recently learned or experimented with, from basic syntax to slightly more advanced features like conditionals, loops, and roles.
 
-### 🧰 Ansible Installation
+### Ansible Installation
 
 To get started with these examples, you'll need to have Ansible installed. Below are some quick installation methods for common platforms:
 
