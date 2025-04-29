@@ -6,3 +6,4 @@ RUN pip install --no-cache-dir ansible
 WORKDIR /ansible
 
 CMD ["ansible-playbook", "--version"]
+CMD ["/bin/sh"]
