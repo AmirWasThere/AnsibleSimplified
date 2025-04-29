@@ -11,3 +11,15 @@ To get started with these examples, you'll need to have Ansible installed. Below
 ```bash
 sudo apt update
 sudo apt install ansible
+
+#### macOS
+```bash
+brew install ansible
+
+#### using pip
+```bash
+pip install ansible
+
+### Verify installation
+```bash
+ansible --version
