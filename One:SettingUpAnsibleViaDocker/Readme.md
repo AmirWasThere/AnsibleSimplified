@@ -11,7 +11,7 @@ To access container shell:
 ```bash
 docker exec -it ansible-container bash
 ```
-For testing:
+For verification:
 ```bash
 ansible --version
 ```
